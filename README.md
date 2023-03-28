@@ -1,4 +1,4 @@
-# Recipes
+<header style="text-align: center; font-size: 3rem; font-weight: bold; margin-bottom: 2rem;">Recipes</header>
 
 Welcome to our collection of delicious recipes! Click on any recipe below to view the full recipe.
 
