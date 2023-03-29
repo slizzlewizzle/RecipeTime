@@ -1,4 +1,4 @@
-# Puff Chicken Recipe
+# Audrey's Puff Chicken Bites
 
 ## Ingredients
 - 2 sheets of puff pastry, thawed
