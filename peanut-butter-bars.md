@@ -28,4 +28,7 @@
 
 8. Cut into bars and serve chilled.
 
-Why did the peanut butter bar go to the gym? To get jacked (peanut butter) up!
+Peanut butter bars, oh so sweet,
+A treat that can't be beat.
+Smooth or lumpy, tall or short,
+In every form, they're a delight to court.
