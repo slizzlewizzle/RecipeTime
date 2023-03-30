@@ -5,3 +5,4 @@ Welcome to our collection of delicious recipes! Click on any recipe below to vie
 - [Audrey's Bread Pudding Mini's](./bread-pudding.md)
 - [Brant's Homebrew Kombucha](./brant_kombucha.md)
 - [Audrey's Puff Chicken Bites](./puff-chicken.md)
+- [Brant's Peanut Butter Bars](./peanut-butter-bars.md)
