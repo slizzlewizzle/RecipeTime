@@ -6,4 +6,4 @@ Welcome to our collection of delicious recipes! Click on any recipe below to vie
 - [Brant's Homebrew Kombucha](./brant_kombucha.md)
 - [Audrey's Puff Chicken Bites](./puff-chicken.md)
 - [Brant's Peanut Butter Bars](./peanut-butter-bars.md)
-- [Audrey's Original Phoritto] (./classic-phoritto.md)
+- [Audrey's Original Phoritto](./classic-phoritto.md)
