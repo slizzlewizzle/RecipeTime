@@ -1,4 +1,4 @@
-# Veggie Delight Phoritto
+# Just the Veg Phoritto
 
 Introducing the Veggie Delight Phoritto, a delicious and wholesome vegetarian fusion of Vietnamese pho and Mexican burrito. This recipe features tofu, rice noodles, and an assortment of fresh veggies and herbs wrapped in a warm flour tortilla.
 
