@@ -12,6 +12,10 @@
       <td style="border:2px solid grey;padding:10px">
         <a href="tropic-phoritto.md">Tropical Fusion Phoritto</a>
       </td>
+      <td style="border:2px solid grey;padding:10px">
+        <a href="pho-bo-recipe.md">Pho Bo Recipe (For use in Audrey's Original Phoritto)</a>
+      </td>
     </tr>
   </table>
 </div>
+
