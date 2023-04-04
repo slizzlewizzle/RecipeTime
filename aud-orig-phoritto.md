@@ -1,12 +1,5 @@
 # Audrey's Original Phoritto
 
-|              |              |
-|:------------:|:------------:|
-| [Classic-Phoritto.md](Classic-Phoritto.md) |              |
-|              |              |
-
-
-
 <div style="text-align:center">
   <table style="display:inline-block">
     <tr>
