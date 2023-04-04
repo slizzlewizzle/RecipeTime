@@ -1,4 +1,4 @@
-# Classic Phoritto
+# Audrey's Original Phoritto
 
 The Classic Phoritto combines the comforting flavors of Vietnamese pho with the convenience of a Mexican burrito, making it a delicious and portable fusion meal. This recipe features tender beef, rice noodles, and fresh herbs wrapped in a warm flour tortilla.
 
