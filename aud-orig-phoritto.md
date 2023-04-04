@@ -6,6 +6,9 @@
       <td style="border:2px solid grey;padding:10px">
         <a href="Classic-Phoritto.md">Classic-Phoritto.md</a>
       </td>
+      <td style="border:2px solid grey;padding:10px">
+        <a href="veg-phoritto.md">Classic-Phoritto.md</a>
+      </td>
     </tr>
   </table>
 </div>
